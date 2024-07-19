@@ -16,3 +16,7 @@ int main() {
     print_color(Blue);
     return 0;
 }
+/*
+g++ -o main main.cpp -L. -lcolor -ldl
+
+*/

@@ -1,5 +1,4 @@
 /*
-
 g++ -o main main.cpp -L. -ldescribable_color -ldl
 */
 #include <iostream>
